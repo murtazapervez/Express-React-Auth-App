@@ -5,7 +5,7 @@ const jwt = require('jsonwebtoken')
 
 const protect =  asyncHandler(async ( req, res, next) => {
    let token
-   
+
    if(req.headers.authorization && req.headers.authorization.startsWith('Bearar')){
     
     try {
