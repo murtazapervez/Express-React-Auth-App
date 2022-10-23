@@ -1,2 +1,2 @@
-# Express-RestApi
-Express-Nodejs-MongoDB based simple rest API authentication
+# Express-React-Auth-App
+Build a basic jwt authentication express app using react as frontend and mongodb. It has very basic functionality.
